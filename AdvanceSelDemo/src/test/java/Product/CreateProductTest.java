@@ -27,8 +27,8 @@ import Object_Repository.LoginPage;
 import Object_Repository.ProductPage;
 
 public class CreateProductTest extends BaseClass{
-//pull back
-	//push again
+
+	//Shweta
 	//@Test(groups = {"smoke","regression"})
 //	@Test(retryAnalyzer =Generic_Utilities.RetryImp.class)
 	@Test
